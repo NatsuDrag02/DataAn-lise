@@ -11,7 +11,7 @@ vendas_2020_df = vendas_2021_df = vendas_2022_df = None
 devolucoes_df = clientes_df = lojas_df = produtos_df = None
 vendas_df = None
 
-
+#projeto da facul
 # ====================================================
 # Funções de Geração de Gráficos
 # ====================================================
